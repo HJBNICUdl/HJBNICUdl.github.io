@@ -1,0 +1,13 @@
+https://tools4dev.org/resources/make-simple-gps-map-project/
+https://developers.google.com/maps/documentation/javascript/markers
+https://developers.google.com/maps/documentation/javascript/error-messages#api-not-activated-map-error
+https://webmasters.stackexchange.com/questions/8525/how-do-i-open-the-javascript-console-in-different-browsers/77337#77337
+https://tutorial.eyehunts.com/js/a-href-javascript-function-call-example-code/
+https://www.computerhope.com/htmcolor.htm
+https://andrew.hedges.name/experiments/convert_lat_long/
+https://developers.google.com/maps/documentation/javascript/examples/places-searchbox
+https://developers.google.com/maps/documentation/distance-matrix/overview
+https://ourcodeworld.com/articles/read/1021/how-to-calculate-the-distance-between-2-markers-coordinates-in-google-maps-with-javascript
+https://cloud.google.com/blog/products/maps-platform/how-calculate-distances-map-maps-javascript-api
+https://developer.here.com/documentation/examples/maps-js/geoshapes/polyline-on-the-map
+file:///E:/GIS%20Project%202022/Sample%20Testing/Distance%20Measurement/Direction/Direction.html
